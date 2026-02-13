@@ -1,1 +1,10 @@
-/target
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# OS
+.DS_Store
